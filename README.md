@@ -96,7 +96,7 @@ You can launch a full cloud-based development environment by clicking `Code -> C
 
 ## 👥 Team Roles
 
-| **Role Title**          | **Member A**                        | **Member B**                 | **Member C**                     |
+| **Role Title**          | **Prem Shinde**                        | **Kunj Patel**                 | **Ishan Arore**                     |
 | :---------------------- | :---------------------------------- | :--------------------------- | :------------------------------- |
 | **Primary Focus**       | **The Watch** (Firmware & Hardware) | **The Brains** (Data & AI)   | **The Face** (UI/UX & Frontend)  |
 | **Core Components**     | `sleeptracker.boot.js`<br>`sleeptracker.app.js` | `SleepAnalyzer.kt` (Android)<br>`analyzeSleep()` (Web) | `activity_main.xml` (Android)<br>`index.html` (Web) |
