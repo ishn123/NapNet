@@ -2,7 +2,7 @@
 
 # Bangle.js AI Sleep Tracker & Analysis Project
 
-![Project Banner](w1.jepg)
+![Project Banner](w1.jpeg)
 
 **A complete, end-to-end wearable system to monitor, fetch, and analyze sleep patterns. This project uses a Bangle.js 1 smartwatch for data collection and provides both a native Android app and a browser-based Web App for sophisticated analysis and visualization.**
 
@@ -79,7 +79,7 @@ To enhance sleep stage recognition beyond simple rule-based heuristics, we imple
 
 The model was trained using data from Bangle.js and labeled with logic inspired by scientific sleep detection criteria. Below is a snapshot of the decision tree model used in our analysis:
 
-![ML Decision Tree](w2.jepg)
+![ML Decision Tree](w2.jpeg)
 
 ### 🔍 Features Used
 
