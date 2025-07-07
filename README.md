@@ -46,7 +46,7 @@ This project is built with a diverse set of technologies appropriate for each co
 ## 📖 Getting Started & Usage
 
 ### 1. Bangle.js Setup
-
+![App](public/w2.png)
 1.  **Clean Install:** Connect your watch to the [Bangle.js Web IDE]((https://premshinde26.github.io/BangleApps/)). It is highly recommended to wipe the watch's storage first by running `reset()` then `Storage.eraseAll()` in the console.
 2.  **Upload App Files:** Upload the `sleeptracker.app.js` and `sleeptracker.boot.js` files to your watch's storage.
 3.  **Reboot:** In the Web IDE console, type `reboot()` and press Enter.
