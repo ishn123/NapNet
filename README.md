@@ -118,8 +118,7 @@ These references validate the use of actigraphy (movement) and heart rate as rel
 ## 🌐 NapNet Project 
 
 **Project Info URL:** [Nap-Net]((https://nap-net.vercel.app/))
-
-Use Lovable to edit the Web App portion (`index.html`). For full development, use:
+For full development, use:
 
 
 - **Bangle.js Code:** Bangle.js Web IDE
