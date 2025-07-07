@@ -30,6 +30,8 @@ const SleepChart = () => {
         const startTime = new Date(downsampled[0].time);
         const endTime = new Date(downsampled[downsampled.length - 1].time);
 
+
+
         // Defensive check for valid date
         if (!isNaN(startTime.getTime()) && !isNaN(endTime.getTime())) {
           const sStart = format(startTime, "hh:mm a");
@@ -66,7 +68,7 @@ const SleepChart = () => {
           Last Night's Sleep Phases
         </CardTitle>
         <p className="text-sm text-muted-foreground">
-          Your sleep cycle from {sleepStart} to {sleepEnd}
+          {/*Your sleep cycle from {sleepStart} to {sleepEnd}*/}
         </p>
       </CardHeader>
       <CardContent>
