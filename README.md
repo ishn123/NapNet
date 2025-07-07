@@ -2,7 +2,7 @@
 
 # Bangle.js AI Sleep Tracker & Analysis Project
 
-![Project Banner](https://user-images.githubusercontent.com/1053289/180601053-a7c873f8-898e-43f1-b924-d2bb77651c6b.png)
+![Project Banner](w1.jepg)
 
 **A complete, end-to-end wearable system to monitor, fetch, and analyze sleep patterns. This project uses a Bangle.js 1 smartwatch for data collection and provides both a native Android app and a browser-based Web App for sophisticated analysis and visualization.**
 
@@ -47,7 +47,7 @@ This project is built with a diverse set of technologies appropriate for each co
 
 ### 1. Bangle.js Setup
 
-1.  **Clean Install:** Connect your watch to the [Bangle.js Web IDE](https://www.espruino.com/ide/). It is highly recommended to wipe the watch's storage first by running `reset()` then `Storage.eraseAll()` in the console.
+1.  **Clean Install:** Connect your watch to the [Bangle.js Web IDE]((https://premshinde26.github.io/BangleApps/)). It is highly recommended to wipe the watch's storage first by running `reset()` then `Storage.eraseAll()` in the console.
 2.  **Upload App Files:** Upload the `sleeptracker.app.js` and `sleeptracker.boot.js` files to your watch's storage.
 3.  **Reboot:** In the Web IDE console, type `reboot()` and press Enter.
 
@@ -79,7 +79,7 @@ To enhance sleep stage recognition beyond simple rule-based heuristics, we imple
 
 The model was trained using data from Bangle.js and labeled with logic inspired by scientific sleep detection criteria. Below is a snapshot of the decision tree model used in our analysis:
 
-![ML Decision Tree](./51cc8d09-f5d9-4500-944c-98cd3d595501.png)
+![ML Decision Tree](w2.jepg)
 
 ### 🔍 Features Used
 
