@@ -105,4 +105,4 @@ You can launch a full cloud-based development environment by clicking `Code -> C
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+
