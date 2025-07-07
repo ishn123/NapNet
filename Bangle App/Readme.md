@@ -2,7 +2,7 @@
 
 ## 💤 Sleep Trackr: A Comprehensive Sleep Monitoring App for Bangle.js
 
-An all-in-one **sleep tracking application** for Bangle.js 1 and 2. Sleep Trackr logs heart rate and movement during the night, classifies sleep stages (Deep, Light, REM, Awake), and syncs data via Bluetooth for detailed visualization on your phone or PC.
+An all-in-one **sleep tracking application** for Bangle.js 1. Sleep Trackr logs heart rate and movement during the night, classifies sleep stages (Deep, Light, REM, Awake), and syncs data via Bluetooth for detailed visualization on your phone or PC.
 
 
 
