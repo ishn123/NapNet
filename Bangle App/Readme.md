@@ -23,7 +23,7 @@ An all-in-one **sleep tracking application** for Bangle.js 1 and 2. Sleep Trackr
   Classifies each time point as Deep, Light, REM, or Awake based on movement + HR.
 
 * 🖥️ **Frontend Visualization Support**
-  Works with a companion [web app](https://github.com/yourname/sleeptrackr-web) or Android app for graphing and insights.
+  Works with a companion [web app]((https://nap-net.vercel.app/)) or Android app for graphing and insights.
 
 ---
 
