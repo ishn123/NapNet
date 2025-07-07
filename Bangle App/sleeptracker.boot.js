@@ -1,7 +1,7 @@
 (function () {
   const STORAGE_FILE = "sleeptracker.data.json";
   const SETTINGS_FILE = "sleeptracker.settings.json";
-  const LOG_INTERVAL_MS = 60000;
+  const LOG_INTERVAL_MS = 300000;
   const CHUNK_SIZE = 100;
   const EOT = "\x04";
   
