@@ -117,7 +117,7 @@ These references validate the use of actigraphy (movement) and heart rate as rel
 
 ## 🌐 NapNet Project 
 
-**Project Info URL:** [Nap-Net]((https://nap-net.vercel.app/))
+**Project Info URL:** [Nap-Net](https://nap-net.vercel.app/)
 For full development, use:
 
 
