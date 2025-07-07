@@ -79,7 +79,7 @@ To enhance sleep stage recognition beyond simple rule-based heuristics, we imple
 
 The model was trained using data from Bangle.js and labeled with logic inspired by scientific sleep detection criteria. Below is a snapshot of the decision tree model used in our analysis:
 
-![ML Decision Tree](w2.jpeg)
+![ML Decision Tree](public/w2.jpeg)
 
 ### 🔍 Features Used
 
