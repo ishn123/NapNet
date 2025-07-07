@@ -115,17 +115,12 @@ These references validate the use of actigraphy (movement) and heart rate as rel
 
 ---
 
-## 📄 License
+## 🌐 NapNet Project 
 
-MIT License © 2025 SleepTracker Team
-
----
-
-## 🌐 Lovable Project Integration
-
-**Project Info URL:** [https://lovable.dev/projects/9736b883-945f-4f4d-ba22-0945319cdf83](https://lovable.dev/projects/9736b883-945f-4f4d-ba22-0945319cdf83)
+**Project Info URL:** [Nap-Net]((https://nap-net.vercel.app/))
 
 Use Lovable to edit the Web App portion (`index.html`). For full development, use:
+
 
 - **Bangle.js Code:** Bangle.js Web IDE
 - **Android App:** Android Studio
